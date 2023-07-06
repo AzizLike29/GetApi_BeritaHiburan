@@ -29,4 +29,12 @@ flutter pub get
 
 <h3> Output Desain API Berita Hiburan </h3>
 
+![2](https://github.com/AzizLike29/GetApi_BeritaHiburan/assets/119909214/968e1678-0911-4e45-b4e9-746bb857fd49)
+
+![3](https://github.com/AzizLike29/GetApi_BeritaHiburan/assets/119909214/30fe2494-bc4d-4c9c-a2d2-51d75b70f3ce)
+
 <h3> Output Desain API Belajar API </h3>
+
+![1](https://github.com/AzizLike29/GetApi_BeritaHiburan/assets/119909214/9ac53374-4b99-43f5-b93f-e3857daf1a28)
+
+<h4> Sekian dan Terima Kasih </h4>
