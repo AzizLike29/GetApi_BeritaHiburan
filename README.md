@@ -29,7 +29,11 @@ flutter pub get
 
 <h3> Output Desain API Berita Hiburan </h3>
 
+Tampilan Menu Utama
+
 ![2](https://github.com/AzizLike29/GetApi_BeritaHiburan/assets/119909214/968e1678-0911-4e45-b4e9-746bb857fd49)
+
+Tampilan Menu Pencarian Berita
 
 ![3](https://github.com/AzizLike29/GetApi_BeritaHiburan/assets/119909214/30fe2494-bc4d-4c9c-a2d2-51d75b70f3ce)
 
