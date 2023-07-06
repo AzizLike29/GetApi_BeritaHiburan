@@ -37,7 +37,7 @@ Tampilan Menu Pencarian Berita
 
 ![3](https://github.com/AzizLike29/GetApi_BeritaHiburan/assets/119909214/30fe2494-bc4d-4c9c-a2d2-51d75b70f3ce)
 
-<h3> Output Desain API Belajar API </h3>
+<h3> Output Desain Folder Belajar API </h3>
 
 ![1](https://github.com/AzizLike29/GetApi_BeritaHiburan/assets/119909214/9ac53374-4b99-43f5-b93f-e3857daf1a28)
 
